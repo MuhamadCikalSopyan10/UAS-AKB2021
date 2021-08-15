@@ -1,0 +1,40 @@
+  {
+  "project_info": {
+    "project_number": "876378189184",
+    "firebase_url": "https://uas-akb2021-default-rtdb.firebaseio.com",
+    "project_id": "uas-akb2021",
+    "storage_bucket": "uas-akb2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876378189184:android:6024b9ce1a3d399541e565",
+        "android_client_info": {
+          "package_name": "com.jovanovic.stefan.mytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876378189184-nl8f66taic0autv69a2ddo1l94b64s39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeE-z16pSuyiwI8EoaaiIeOd4oz2HB-sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876378189184-nl8f66taic0autv69a2ddo1l94b64s39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
